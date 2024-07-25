@@ -1,17 +1,9 @@
-<h1 align="center"> DEVLINKS </h1>
+<h1 align="center"> DEVLINKS BIA</h1>
 
 <p align="center">
 
  ♥ First project created by Bianca ♥
 </p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -22,19 +14,19 @@
   <img alt="project Bianca" src=".github/preview.png" width="100%">
 </p>
 
-## 📌 Tecnologias
+## 📌 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-Projeto inicial - Página centralizada de todas as redes sociais
-Funciona como um agregador de links para cartão de visitas online 
+Initial project - Centralized page for all social networks
+Works as an online business card link aggregator
 
 
 ---
