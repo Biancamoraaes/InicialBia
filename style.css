@@ -75,8 +75,8 @@ line-height é a altura da linha */
   animation: slide-in 0.4s forwards;
 }
 #switch button:hover {
-  outline: 8px solid var(--surface-color-hover);
   opacity: 0.8;
+  outline: 8px solid var(--surface-color-hover);
 }
 
 #switch span {
