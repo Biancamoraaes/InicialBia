@@ -69,11 +69,16 @@ line-height é a altura da linha */
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back 0.3s;
 }
-.light #switch button {
-  right: 0;
-  left: initial;
+.light #switch button { 
+  animation: slide-in 0.4s forwards;
 }
+#switch button:hover {
+  outline: 8px solid var(--surface-color-hover);
+  opacity: 0.8;
+}
+
 #switch span {
   display: block;
   width: 64px;
@@ -133,4 +138,21 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 15px;
+}
+/* animation, esse nome slide-in/ slide-back fui eu que escolhi*/
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+  to {
+    right: 0;
+  }
 }
