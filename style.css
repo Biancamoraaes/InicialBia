@@ -71,7 +71,7 @@ line-height é a altura da linha */
   transform: translateY(-50%);
   animation: slide-back 0.3s;
 }
-.light #switch button { 
+.light #switch button {
   animation: slide-in 0.4s forwards;
 }
 #switch button:hover {
