@@ -26,9 +26,9 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Initial project - Centralized page for all social networks
-Works as an online business card link aggregator
+Works as an online business card link aggregator -
 
 
 ---
 
- ♥ by Bianca Moraes 
+ ♥ by Bianca Moraes ♥
