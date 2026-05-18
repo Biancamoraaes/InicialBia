@@ -31,4 +31,4 @@ Works as an online business card link aggregator -
 
 ---
 
- ♥ by Bianca Moraes ♥
+ ♥ _by Bianca Moraes_ ♥
