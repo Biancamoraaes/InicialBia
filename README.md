@@ -14,7 +14,7 @@
   <img alt="project Bianca" src=".github/preview.png" width="100%">
 </p>
 
-## 📌 Technologies.
+## 📌 Technologies
 
 This project was developed with the following technologies:
 
