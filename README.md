@@ -32,3 +32,4 @@ Works as an online business card link aggregator -
 ---
 
  ♥ _by Bianca Moraes_ ♥
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/b7852cf6-8c82-4522-9045-12f4ed88dc3e" />
