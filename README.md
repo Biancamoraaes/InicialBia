@@ -2,7 +2,7 @@
 
 <p align="center">
 
- ♥ _First project created by Bianca_ ♥
+ ♥ _First project created by Bianca M_ ♥
 </p>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
